@@ -1,0 +1,22 @@
+{   
+   "name": "dungeon-world-macros",   
+   "title": "Dungeon World Macros",
+   "description": "Macros for Dungeon World",   
+   "author": "Mestre Digital",
+   "version": "0.0.1",
+   "minimumCoreVersion": "0.7.9",
+   "compatibleCoreVersion":"0.7.9",
+   "packs": [
+      {
+        "name": "macros",
+        "label": "Macros",
+        "path": "packs/macros.db",
+        "entity": "Macros",
+        "module": "dungeon-world-macros"
+      }
+    ],
+  "system": "dungeonworld",
+  "url": "https://github.com/brunocalado/incompleteadventurer",
+  "manifest": "https://raw.githubusercontent.com/brunocalado/incompleteadventurer/main/module.json",  
+  "download": "https://codeload.github.com/brunocalado/incompleteadventurer/zip/main"               
+}
