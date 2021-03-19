@@ -49,6 +49,10 @@ Features
 - Choose damage and monster type to roll the treasure table
 - Whisper the result to the gm
 
+# How to Install
+1. Go to modules and use the link: 
+https://raw.githubusercontent.com/brunocalado/dungeon-world-macros/main/module.json
+
 # Can I Help?
 Yes. Please.
 
