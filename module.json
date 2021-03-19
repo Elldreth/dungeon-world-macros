@@ -11,7 +11,7 @@
         "name": "macros",
         "label": "Macros",
         "path": "packs/macros.db",
-        "entity": "Macros",
+        "entity": "Macro",
         "module": "dungeon-world-macros"
       }
     ],
