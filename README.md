@@ -1,4 +1,14 @@
 # Macros for Dungeon World
+<p align="center">
+  <img width="300" src="images/guide/usedw.png">
+</p>
+
+# How To
+
+# Build
+<p align="center">
+  <img width="300" src="images/guide/build.jpg">
+</p>
 
 ## Basics
 1. Go to Compendium.
