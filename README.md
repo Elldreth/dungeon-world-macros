@@ -1,13 +1,20 @@
 # Macros for Dungeon World
+Macros to automate some tasks.
+
 <p align="center">
   <img width="300" src="images/guide/usedw.png">
 </p>
 
-# How To
-
-# Build
 <p align="center">
-  <img width="300" src="images/guide/build.jpg">
+  <img width="900" src="images/guide/demo.jpg">
+</p>
+
+# How To
+This is my macro bar build. It's a suggestion.
+
+## Build
+<p align="center">
+  <img width="500" src="images/guide/build.jpg">
 </p>
 
 ## Basics
@@ -58,6 +65,10 @@ Features
 Features
 - Choose damage and monster type to roll the treasure table
 - Whisper the result to the gm
+
+## Whisper
+Features
+- Whisper to connected players. GM or Players can use this one.
 
 # How to Install
 1. Go to modules and use the link: 
