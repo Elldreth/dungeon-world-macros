@@ -1,3 +1,6 @@
+# Dead
+"I had to abandon the development of this Foundry VTT module due to time constraints and other priorities."
+
 # Macros for Dungeon World
 Macros to automate some tasks.
 
