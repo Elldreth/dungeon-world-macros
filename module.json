@@ -3,9 +3,9 @@
    "title": "Dungeon World Macros",
    "description": "Macros for Dungeon World",   
    "author": "Mestre Digital",
-   "version": "0.0.9",
-   "minimumCoreVersion": "0.7.9",
-   "compatibleCoreVersion":"0.7.9",
+   "version": "0.1.9",
+   "minimumCoreVersion": "1.7.0",
+   "compatibleCoreVersion":"1.7.0",
    "packs": [
       {
         "name": "macros",
@@ -16,7 +16,7 @@
       }
     ],
   "system": "dungeonworld",
-  "url": "https://github.com/brunocalado/dungeon-world-macros",
-  "manifest": "https://raw.githubusercontent.com/brunocalado/dungeon-world-macros/main/module.json",  
-  "download": "https://codeload.github.com/brunocalado/dungeon-world-macros/zip/main"               
+  "url": "https://github.com/Elldreth/dungeon-world-macros/edit/main/module.json",
+  "manifest": "https://raw.githubusercontent.com/Elldreth/dungeon-world-macros/main/module.json",  
+  "download": "https://codeload.github.com/Elldreth/dungeon-world-macros/zip/main"               
 }
